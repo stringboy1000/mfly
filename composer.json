@@ -1,3 +1,6 @@
 {
-  "name": "stringboy1000/mfly"
+  "name": "stringboy1000/mfly",
+  "require" : {
+      "monolog/monolog" : "1.17.*"
+  }
 }
